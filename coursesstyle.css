@@ -1,0 +1,67 @@
+/*This css file  created for course html page*/
+
+ul {
+    list-style-type: none;
+}
+
+ul>li {
+    float: left;
+    margin-left: 25px;
+    border: solid 1px #F0A500;
+    width: 15%;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+body {
+    background-color: #334756;
+}
+
+.lvl2>td {
+    color: white;
+    /*visibility: hidden;*/
+}
+
+.tbl {
+    border: 1px solid #F0A500;
+}
+
+td,
+th {
+    border: 1px solid #F0A500;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 75px;
+    height: 75px;
+}
+
+.search {
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+
+.inpt {
+    width: 400px;
+    float: right;
+}
+
+h1,
+h3 {
+    color: #F0A500;
+}
+
+.copy,
+#levellb {
+    color: #F0A500;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.lvl1 {
+    visibility: visible;
+}
